@@ -34,5 +34,10 @@ A simple weather app built with **HTML, CSS, and JavaScript**, using the [OpenWe
 1. Clone this repo  
    ```bash
    git clone https://github.com/prakhar-adi/API-Based-Weather-Application.git
+   cd API-Based-Weather-Application
+2. Add your OpenWeather API Key
+   ```bash
+   const apiKey = "YOUR_API_KEY_HERE";
+3. Run the project
 
 
