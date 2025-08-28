@@ -21,8 +21,10 @@ A simple weather app built with **HTML, CSS, and JavaScript**, using the [OpenWe
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your app here if possible)
-
+<p align="center">
+  <img src="./images/S2.png" alt="Home Page" width="45%">
+  <img src="./images/S1.png" alt="Weather Details" width="45%">
+</p>
 ---
 
 ## 🌐 Live Demo
